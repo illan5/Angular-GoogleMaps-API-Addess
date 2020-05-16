@@ -1,0 +1,22 @@
+<h2>Dirección Dk prototipo</h2>
+<hr>
+
+<input #box (keyup.enter)="onEnter(box.value)"
+        style="display:table-cell; width:100%" >
+<button (click)="onEnter(box.value)">Get data</button>
+<hr>
+<h3>Datos</h3>
+<div *ngIf="value">
+    <h4>Input</h4>
+    <p>{{value}}</p>
+    <h4>Dirección formateada</h4>
+    <p>{{address_formatted}}</p>
+    <h4>Código postal</h4>
+    <p>{{postcode}}</p>
+    <h4>Coordenadas</h4>
+    <p>(lat, long) = ({{latitude}}, {{longitude}})</p>
+
+
+</div>
+
+
