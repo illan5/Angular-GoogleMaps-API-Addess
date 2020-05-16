@@ -1,4 +1,4 @@
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png) ![alt text](https://lh3.googleusercontent.com/7I2u9yy5dahpj_OOywkYBicRzhK_8ZIqqVqrpNQL8OF4JSQrsrZiW46DZpUSG28eDdRknIPIjlr20ksr4gBe)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png) ![alt text](https://i.pinimg.com/originals/5c/a6/3f/5ca63f611b01abff7c14ebada775e320.png)
 
 
 # TestGeolocAPI
